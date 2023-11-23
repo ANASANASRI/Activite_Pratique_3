@@ -1,0 +1,6 @@
+# Project exclude paths
+/billing-service/target/
+/customer-service/target/
+/discovery-service/target/
+/gateway/target/
+/inventory-service/target/
